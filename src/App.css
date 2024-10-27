@@ -1,0 +1,198 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.MenuButton {
+  background-color: #101A24;
+  color: azure;
+  margin: 20px;
+  border-radius: 13px 5px 13px 5px;
+  font-size: 20px;
+  width: 120px;
+  height: 50px;
+  margin-left: -30px;
+
+}
+
+.BookButton {
+  background-color: #101A24;
+  color: azure;
+  margin: 20px;
+  border-radius: 13px 5px 13px 5px;
+  font-size: 20px;
+  width: 140px;
+  height: 50px;
+
+}
+
+.Heroimg {
+  height: 500px;
+  width: 400px;
+
+  margin-left: 140px;
+
+
+}
+
+.Heroimg1 {
+  height: 300px;
+  width: 300px;
+  margin-top: 190px;
+
+  position: absolute;
+
+}
+
+.Heroimg2 {
+  height: 200px;
+  width: 200px;
+  margin-top: -1000px;
+  position: relative;
+}
+
+.Heroimg3 {
+  height: 200px;
+  width: 200px;
+  margin-top: -1000px;
+  position: relative;
+  margin-left: 450px;
+}
+
+.Heroimg4 {
+  height: 200px;
+  width: 200px;
+  margin-top: -200px;
+  position: relative;
+  margin-left: 450px;
+}
+
+.icon {
+  height: 30px;
+  width: 30px;
+  border: 1px solid black;
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
+.menucard {
+  height: 350px;
+  width: 250px;
+  border: 1px solid black;
+  margin: 40px;
+  border-radius: 40px 10px 40px 10px;
+
+}
+
+
+.menuhead {
+  margin-top: 150px;
+
+
+}
+
+.menu1 {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  margin-top: -80px;
+  margin-left: 20px;
+
+
+}
+.menu1 {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  margin-top: -40px;
+  margin-left: -70px;
+
+
+}
+.menu2 {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  margin-top: -250px;
+  margin-left: 80px;
+
+
+}
+.menu3 {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  margin-top: -250px;
+  margin-left: 80px;
+
+
+}
+.menu4 {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  margin-top: -250px;
+  margin-left: 80px;
+
+
+}
+
+.menuparent {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.booking{
+  height: 450px;
+  width: 430px;
+  margin-left: 10px;
+}
+.BookButton {
+  background-color: #101A24;
+  color: azure;
+  margin: 20px;
+  border-radius: 13px 5px 13px 5px;
+  font-size: 20px;
+  width: 140px;
+  height: 50px;
+  margin-left: 60px;
+
+}
