@@ -196,3 +196,65 @@
   margin-left: 60px;
 
 }
+.chefimg{
+  height: 650px;
+  width: 500px;
+  margin-top: 70px;
+}
+.lists{
+  margin: 10px;
+}
+.listborder{
+  height: 200px;
+  width: 600px;
+  margin-left: -50px;
+}
+.nav {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+  margin-left: -100px;
+}
+
+.nav1 {
+  list-style: none;
+  margin: 20px;
+}
+
+.logos {
+  height: 40px;
+  margin-top: 30px;
+}
+.costumer-card {
+  height: 400px;
+  width:500px ;
+  border: 2px solid black;
+  border-radius:  25px 15px 25px 15px ;
+  display: flex;
+  margin: 30px;
+  background-color: #FFFFFF;
+  
+
+}
+.container-card{
+  display: flex;
+  margin: 30px;
+  
+}
+.card-p{
+  
+  margin-top: 100px;
+  margin-left: 70px;
+}
+.profile{
+  height: 60px;
+  width: 60px;
+  margin-left: -50px;
+
+}
+.profile1{
+  margin-right: 180px;
+  margin-top: -50px;
+}

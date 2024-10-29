@@ -7,6 +7,7 @@ import Booking from './Landing-page/Home/Booking';
 import Costumer from './Landing-page/Home/Costumer';
 import Subscribe from './Landing-page/Home/Subscribe';
 import Footer from './Landing-page/Footer';
+import Bookingchef from './Landing-page/Home/Bookingchef';
 
 function App() {
   return (
@@ -15,9 +16,11 @@ function App() {
     <Hero/>
     <Menu/>
     <Booking/>
+    <Bookingchef/>
     <Costumer/>
     <Subscribe/>
     <Footer/>
+
 
     </>
   );
